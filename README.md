@@ -1,3 +1,3 @@
-# flutter_example_app
+# flutter Examples
 
 A new Flutter project.
