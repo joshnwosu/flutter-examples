@@ -10,6 +10,8 @@ class HomePage extends StatelessWidget {
     {'title': "Dynamic Cards Grid", 'route': "/dynamic_cards_grid"},
     {'title': "Text Fields", 'route': "/text_fields"},
     {'title': "Sliders", 'route': "/sliders"},
+    {'title': "Checkboxes", 'route': "/checkboxes"},
+    {'title': "Radio Buttons", 'route': "/radio_buttons"},
   ];
 
   @override
