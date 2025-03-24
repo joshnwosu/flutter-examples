@@ -12,6 +12,7 @@ class HomePage extends StatelessWidget {
     {'title': "Sliders", 'route': "/sliders"},
     {'title': "Checkboxes", 'route': "/checkboxes"},
     {'title': "Radio Buttons", 'route': "/radio_buttons"},
+    {'title': "Task List", 'route': "/task_list"},
   ];
 
   @override

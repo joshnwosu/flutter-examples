@@ -8,6 +8,7 @@ import 'pages/dynamic_cards_grid_page.dart';
 import 'pages/sliders_page.dart';
 import 'pages/checkboxes_page.dart';
 import 'pages/radio_buttons_page.dart';
+import 'pages/task_list_page.dart';
 
 void main() {
   runApp(const MainApp());
@@ -31,6 +32,7 @@ class MainApp extends StatelessWidget {
         '/sliders': (context) => const SlidersPage(),
         '/checkboxes': (context) => const CheckboxesPage(),
         '/radio_buttons': (context) => const RadioButtonsPage(),
+        '/task_list': (context) => const TaskListPage(),
       },
     );
   }
